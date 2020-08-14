@@ -7,6 +7,4 @@ Function removes oggy as it sounds bad.
 
 ## Method
 
-
-
 Don't forget to update this file after fixing the code.
